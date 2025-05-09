@@ -8,11 +8,11 @@ about:
 
 :::{#me}
 
-##  Introduction to Ethics 
+## Introduction to Ethics 
 
-##  
+## Visualizations and Ethics 
 
-## 
+## Sampling 
 
 :::
 
